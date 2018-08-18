@@ -1,4 +1,4 @@
-# robocode
+# Robocode
 
 Tem como objetivo, promover da performance de Java o desenvolvimento de jogos.
 
